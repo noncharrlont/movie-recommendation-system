@@ -24,6 +24,7 @@ This project builds a movie recommendation system using the CiaoDVD dataset. The
 * Global Avg → RMSE: 1.0821, MAE: 0.8351
 * User-CF → RMSE: 1.0839, MAE: 0.8200
 * SVD → RMSE: 0.9548, MAE: 0.7378
+* Trust-Based → RMSE: 1.0820, MAE: 0.8351
 
 SVD performed the best.
 
